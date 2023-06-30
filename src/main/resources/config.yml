@@ -1,0 +1,11 @@
+# Plugin changeable settings
+# Plugin must be reloaded after each change
+# SQLite database name
+database: "database.db"
+# Player permission to use on own island
+usePermission: "os.use"
+# Admin permission to use on every island (NOT RECOMMENDED FOR PLAYERS), still needs to have usePermission
+bypassPermission: "os.bypass"
+# Number of days when data are removed from database, 0 = never, 7 = 7 days etc.
+# Purge is triggered after the plugin is loaded
+purgeDays: 0

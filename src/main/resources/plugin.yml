@@ -1,0 +1,7 @@
+name: ObsidianScooping
+version: '${project.version}'
+main: me.smykcool.obsidianscooping.ObsidianScooping
+api-version: 1.16
+depend: [ BentoBox ]
+authors: [ Smykcool ]
+description: Minecraft plugin for BentoBox to scoop an obsidian with a bucket including protection
